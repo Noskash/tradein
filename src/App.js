@@ -1,4 +1,3 @@
-import logo from './assests/currency.png';
 import './App.css';
 import './assests/header/header.css';
 import Header from './assests/header/header';
