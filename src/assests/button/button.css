@@ -1,0 +1,11 @@
+.button {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff; /* Добавьте фон */
+    padding: 10px 20px;        /* Добавьте отступы */
+    border: none;             /* Уберите границу */
+    border-radius: 4px;       /* Скругление углов */
+}

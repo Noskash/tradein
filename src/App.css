@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+.MainButtons{
+  position: absolute;
+  color: white;
+  bottom: 20px;
+  left: 25%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.MainButtons Button{
+  flex: 1;
+  margin: 10%;
+}
+
