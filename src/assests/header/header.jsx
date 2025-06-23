@@ -7,7 +7,7 @@ export default function Header(props){
             <img src = {props.logo} className='logo' alt="logo"/>
             {
                 props.isRegistered ? (
-                    <span className = "balance">{props.balance} <img className="ton-icon"src={tonlogo}/></span>
+                    <span className = "balance">{props.balance} <img className="ton-icon"src={tonlogo} alt="ton"/></span>
                 
                 ) : (
                     <div>
