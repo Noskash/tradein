@@ -1,5 +1,4 @@
 import './App.css';
-import './assests/header/header.css';
 import Header from './assests/header/header';
 import Button from './assests/button/button';
 import { useEffect , useState } from 'react';
