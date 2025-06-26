@@ -3,6 +3,7 @@ import Header from './assests/header/header';
 import Button from './assests/button/button';
 import { useEffect , useState } from 'react';
 function App() {
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
   const [user , setUser] = useState(null);
 
   useEffect(() => {
