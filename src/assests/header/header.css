@@ -13,7 +13,10 @@
 }
 
 .logo {
-    height: 40px;
+    height: 10%;
+    width: 10%;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
 .balance {
