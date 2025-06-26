@@ -13,8 +13,8 @@
 }
 
 .logo {
-    height: 40%;
-    width: 50%;
+    height: 30px;
+    width: 20px;
     object-fit: cover;
     border-radius: 50%;
 }
