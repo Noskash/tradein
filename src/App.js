@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div>
-      <Header logo= {user?.photo_url ?? 'https://via.placeholder.com/50'} name="yasin" balance="100" isRegistered={false}/>
+      <Header logo= {user?.photo_url} name="yasin" balance="100" isRegistered={false}/>
       <div className="MainButtons">
         <Button text="Магазин" />
         <Button text="Профиль" />
